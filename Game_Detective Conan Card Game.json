@@ -64,7 +64,7 @@
                 },
                 {
                   "section": "Scene",
-                  "style": false
+                  "width": "80%"
                 },
                 {
                   "section": "Partner",
@@ -106,7 +106,7 @@
           "Mana": {
             "title": "Mana",
             "isHidden": "yes",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -154,7 +154,7 @@
           "Evidence": {
             "title": "Evidence",
             "isHidden": "opponent-only",
-            "height": "MEDIUM",
+            "height": "SMALL",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
