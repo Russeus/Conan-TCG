@@ -63,21 +63,21 @@
                   "section": "Case",
                   "width": "10%",
                   "style": {
-                    "width": "10%"
+                    "width": "20%"
                   }
                 },
                 {
                   "section": "Scene",
                   "width": "80%",
                   "style": {
-                    "width": "80%"
+                    "width": "60%"
                   }
                 },
                 {
                   "section": "Partner",
                   "width": "10%",
                   "style": {
-                    "width": "10%"
+                    "width": "20%"
                   }
                 }
               ],
@@ -175,7 +175,15 @@
             "enterTapped": false,
             "enterSpun": false,
             "keepTappedNewTurn": false,
-            "showHiddenCardInHistory": false
+            "showHiddenCardInHistory": false,
+            "cardActionShortcut": {
+                            "action": "MOVE",
+                            "actionData": {
+                                "destination": "File",
+                                "position": "BOTTOM"
+                            },
+                            "image": "https://russeus.github.io/RB-TCG-Arena/Images/recycleButton.png"
+                        }
           },
           "Stack": {
             "isDefaultSection": true,
