@@ -41,7 +41,7 @@
       "countersStartingValues": [
         0
       ],
-      "hideFacedDownCards": false,
+      "hideFacedDownCards": true,
       "sections": {
         "customSections": [
           "Case",
