@@ -1,13 +1,13 @@
 {
-  "title": "Conan Starter",
-  "id": "cbbc9713-8631-4849-8b45-34548a090296",
+  "title": "Conan Starter Deck",
+  "id": "df899348-c11f-4f3a-acfc-c7347d244f56",
   "game": "Detective Conan Card Game",
   "format": [
     "Classic"
   ],
   "cardCount": 41,
-  "createdAt": "2026-01-08T02:28:16.501Z",
-  "lastModifiedAt": "2026-01-08T02:29:07.125Z",
+  "createdAt": "2026-01-08T17:10:19.631Z",
+  "lastModifiedAt": "2026-01-08T17:10:42.261Z",
   "deckList": {
     "categoriesOrder": [
       "Partner",
