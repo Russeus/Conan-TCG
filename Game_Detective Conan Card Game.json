@@ -3,12 +3,12 @@
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://raw.githubusercontent.com/Russeus/Conan-TCG/refs/heads/main/Conan-PreconDecks.json"
+    "decksUrl": "https://russeus.github.io/Conan-TCG/Conan-PreconDecks.json.json"
   },
   "customHelp": "",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Russeus/Conan-TCG/refs/heads/main/Conan-CardList.json",
+    "dataUrl": "https://russeus.github.io/Conan-TCG/Conan-CardList.json",
     "cardBack": "https://i.postimg.cc/sf5RJk7x/Conan-Card-Back.png"
   },
   "deckBuilding": {
