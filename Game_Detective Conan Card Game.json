@@ -47,7 +47,8 @@
           "Case",
           "Scene",
           "Evidence",
-          "Partner"
+          "Partner",
+          "Mana"
         ],
         "layout": {
           "direction": "column",
@@ -59,7 +60,7 @@
               "content": [
                 {
                   "section": "Case",
-                  "style": false
+                  "width": "10%"
                 },
                 {
                   "section": "Scene",
@@ -67,7 +68,7 @@
                 },
                 {
                   "section": "Partner",
-                  "style": false
+                  "width": "10%"
                 }
               ],
               "isSymetricalForOpponents": false
@@ -121,7 +122,7 @@
           "Case": {
             "title": "Case",
             "isHidden": "no",
-            "height": "BIG",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
