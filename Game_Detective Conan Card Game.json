@@ -78,11 +78,11 @@
               "content": [
                 {
                   "section": "Evidence",
-                  "style": false
+                  "width": "50%"
                 },
                 {
                   "section": "Mana",
-                  "style": false
+                  "width": "50%"
                 }
               ],
               "isSymetricalForOpponents": false
@@ -93,13 +93,19 @@
           "Case",
           "Partner"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Character": "Scene",
+          "Event": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Character": "Scene",
+          "Event": "Discard"
+        },
         "sectionsDict": {
           "Mana": {
             "title": "Mana",
             "isHidden": "yes",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "START",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -115,7 +121,7 @@
           "Case": {
             "title": "Case",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "BIG",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -131,7 +137,7 @@
           "Scene": {
             "title": "Scene",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -147,7 +153,7 @@
           "Evidence": {
             "title": "Evidence",
             "isHidden": "opponent-only",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
@@ -163,7 +169,7 @@
           "Partner": {
             "title": "Partner",
             "isHidden": "no",
-            "height": "SMALL",
+            "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
             "noAutoPayTo": true,
