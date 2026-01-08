@@ -1,0 +1,258 @@
+{
+  "D01001": {
+    "id": "D01001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conan Edogawa",
+        "type": "Partner",
+        "cost": 0,
+        "image": "https://i.postimg.cc/gcXC2fN4/D01001_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conan Edogawa",
+    "type": "Partner",
+    "cost": 0
+  },
+  "D01002": {
+    "id": "D01002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conan Edogawa",
+        "type": "Character",
+        "cost": "7",
+        "image": "https://i.postimg.cc/fWtGR6Bq/D01002_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conan Edogawa",
+    "type": "Character",
+    "cost": "7"
+  },
+  "D01003": {
+    "id": "D01003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Conan Edogawa",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://i.postimg.cc/9XR6QvJN/D01003_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Conan Edogawa",
+    "type": "Character",
+    "cost": "4"
+  },
+  "D01004": {
+    "id": "D01004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shinichi Kudo",
+        "type": "Character",
+        "cost": "8",
+        "image": "https://i.postimg.cc/mZzvg085/D01004_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shinichi Kudo",
+    "type": "Character",
+    "cost": "8"
+  },
+  "D01005": {
+    "id": "D01005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kogoro Mori",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://i.postimg.cc/wxyCjS0P/D01005_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kogoro Mori",
+    "type": "Character",
+    "cost": "5"
+  },
+  "D01006": {
+    "id": "D01006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ran Mori",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://i.postimg.cc/kM60gkfz/D01006_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ran Mori",
+    "type": "Character",
+    "cost": "6"
+  },
+  "D01007": {
+    "id": "D01007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ran Mori",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://i.postimg.cc/tRZK4L28/D01007_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ran Mori",
+    "type": "Character",
+    "cost": "3"
+  },
+  "D01008": {
+    "id": "D01008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hiroshi Agasa",
+        "type": "Character",
+        "cost": "6",
+        "image": "https://i.postimg.cc/WpFB1Q5R/D01008_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hiroshi Agasa",
+    "type": "Character",
+    "cost": "6"
+  },
+  "D01009": {
+    "id": "D01009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ayumi Yoshida",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://i.postimg.cc/h4kHzp5p/D01009_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ayumi Yoshida",
+    "type": "Character",
+    "cost": "4"
+  },
+  "D01010": {
+    "id": "D01010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mitsuhiko Tsuburaya",
+        "type": "Character",
+        "cost": "3",
+        "image": "https://i.postimg.cc/RCkj6XDg/D01010_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mitsuhiko Tsuburaya",
+    "type": "Character",
+    "cost": "3"
+  },
+  "D01011": {
+    "id": "D01011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Genta Kojima",
+        "type": "Character",
+        "cost": "2",
+        "image": "https://i.postimg.cc/SQBw2DvT/D01011_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genta Kojima",
+    "type": "Character",
+    "cost": "2"
+  },
+  "D01012": {
+    "id": "D01012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ai Haibara",
+        "type": "Character",
+        "cost": "5",
+        "image": "https://i.postimg.cc/G3WZ8q5S/D01012_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ai Haibara",
+    "type": "Character",
+    "cost": "5"
+  },
+  "D01013": {
+    "id": "D01013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ai Haibara",
+        "type": "Character",
+        "cost": "4",
+        "image": "https://i.postimg.cc/FFM2dDBB/D01013_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ai Haibara",
+    "type": "Character",
+    "cost": "4"
+  },
+  "D01014": {
+    "id": "D01014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Great Detective Turned Small",
+        "type": "Event",
+        "cost": "1",
+        "image": "https://i.postimg.cc/T2zZLC4F/D01014_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Great Detective Turned Small",
+    "type": "Event",
+    "cost": "1"
+  },
+  "D01015": {
+    "id": "D01015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ran's Strike",
+        "type": "Event",
+        "cost": "5",
+        "image": "https://i.postimg.cc/44Dr7BSr/D01015_eng.jpg",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ran's Strike",
+    "type": "Event",
+    "cost": "5"
+  },
+  "D01016": {
+    "id": "D01016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Moonlight Sonata Murder",
+        "type": "Case",
+        "cost": "0",
+        "image": "https://i.postimg.cc/QtsFdQrV/D01016-eng.jpg",
+        "isHorizontal": true
+      }
+    },
+    "name": "The Moonlight Sonata Murder",
+    "type": "Case",
+    "cost": 0
+  }
+}
