@@ -60,15 +60,24 @@
               "content": [
                 {
                   "section": "Case",
-                  "width": "10%"
+                  "width": "10%",
+                  "style": {
+                    "width": "10%"
+                  }
                 },
                 {
                   "section": "Scene",
-                  "width": "80%"
+                  "width": "80%",
+                  "style": {
+                    "width": "80%"
+                  }
                 },
                 {
                   "section": "Partner",
-                  "width": "10%"
+                  "width": "10%",
+                  "style": {
+                    "width": "10%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
@@ -79,11 +88,17 @@
               "content": [
                 {
                   "section": "Evidence",
-                  "width": "50%"
+                  "width": "50%",
+                  "style": {
+                    "width": "50%"
+                  }
                 },
                 {
                   "section": "Mana",
-                  "width": "50%"
+                  "width": "50%",
+                  "style": {
+                    "width": "50%"
+                  }
                 }
               ],
               "isSymetricalForOpponents": false
