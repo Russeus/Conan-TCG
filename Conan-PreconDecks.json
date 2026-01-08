@@ -1,0 +1,92 @@
+{
+  "title": "Conan ST",
+  "id": "66cb922b-31eb-4df2-aa10-14f08b5f0a4d",
+  "game": "Detective Conan Card Game",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 41,
+  "createdAt": "2026-01-08T01:33:22.470Z",
+  "lastModifiedAt": "2026-01-08T01:34:41.714Z",
+  "deckList": {
+    "categoriesOrder": [
+      "Partner",
+      "Character",
+      "Event",
+      "Case"
+    ],
+    "Sideboard": [],
+    "Partner": [
+      {
+        "count": 1,
+        "id": "D01001"
+      }
+    ],
+    "Character": [
+      {
+        "count": 3,
+        "id": "D01002"
+      },
+      {
+        "count": 3,
+        "id": "D01003"
+      },
+      {
+        "count": 3,
+        "id": "D01004"
+      },
+      {
+        "count": 3,
+        "id": "D01005"
+      },
+      {
+        "count": 3,
+        "id": "D01006"
+      },
+      {
+        "count": 3,
+        "id": "D01007"
+      },
+      {
+        "count": 3,
+        "id": "D01008"
+      },
+      {
+        "count": 3,
+        "id": "D01009"
+      },
+      {
+        "count": 3,
+        "id": "D01010"
+      },
+      {
+        "count": 3,
+        "id": "D01011"
+      },
+      {
+        "count": 3,
+        "id": "D01012"
+      },
+      {
+        "count": 2,
+        "id": "D01013"
+      }
+    ],
+    "Event": [
+      {
+        "count": 2,
+        "id": "D01014"
+      },
+      {
+        "count": 2,
+        "id": "D01015"
+      }
+    ],
+    "Case": [
+      {
+        "count": 1,
+        "id": "D01016"
+      }
+    ]
+  }
+}
