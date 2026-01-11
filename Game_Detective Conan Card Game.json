@@ -3,7 +3,7 @@
   "menuBackgroundImage": "",
   "defaultRessources": {
     "backgrounds": [],
-    "decksUrl": "https://russeus.github.io/Conan-TCG/Conan-PreconDecks.json.json"
+    "decksUrl": "https://russeus.github.io/Conan-TCG/Conan-PreconDecks.json"
   },
   "customHelp": "",
   "cardRotation": "90",
