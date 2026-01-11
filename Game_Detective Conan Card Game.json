@@ -133,17 +133,17 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": false,
-            "displayedTitle": "File",
+            "displayedTitle": "File Area",
             "enterTapped": true,
             "enterSpun": false,
             "isGroupForbidden": false,
             "keepTappedNewTurn": true,
             "showHiddenCardInHistory": false,
-            "noQuickActions": false
+            "noQuickActions": true
           },
           "Case": {
             "title": "Case",
-            "isHidden": "no",
+            "isHidden": "opponent-only",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
@@ -181,7 +181,7 @@
             "opponentAlignment": false,
             "noAutoPayTo": true,
             "isHorizontalAllowed": true,
-            "displayedTitle": "Evidence",
+            "displayedTitle": "Evidence Area",
             "noQuickActions": false,
             "enterTapped": false,
             "enterSpun": false,
@@ -191,7 +191,7 @@
           },
           "Partner": {
             "title": "Partner",
-            "isHidden": "no",
+            "isHidden": "opponent-only",
             "height": "MEDIUM",
             "alignment": "CENTER",
             "opponentAlignment": false,
